@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+}
+
+.form {
+    margin: 15px;
+    margin-left:0;
+}
+
+.text:focus {
+    background-color:lightyellow;
+}
+
+.password:focus {
+    background-color:lightyellow;
+}
+
+.email:focus {
+    background-color:lightyellow;
+}
+
+.date:focus {
+    background-color:lightyellow;
+}
+
+.submit:hover {
+    background-color:lightgreen
+}
